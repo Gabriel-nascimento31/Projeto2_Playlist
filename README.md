@@ -41,6 +41,9 @@ Filas: Estrutura de dados linear que foi utilizada para gerenciar as músicas de
 As estruturas de dados foram criadas manualmente(não foram utilizadas estruturas built-in do Python como List e Deque)
 
 
+O projeto teve como objetivo entender programação orientada a objetos e aplicar as estruturas de dados criadas manualmente que foram Lista encadeada e Fila
+
+
 Para rodar o projeto, clone o repositório e execute o arquivo app.py
 
 
